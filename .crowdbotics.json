@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.7.1",
+    "cookiecutter_context": {
+      "project_name": "Round Meadow",
+      "project_slug": "round_meadow_8",
+      "project_dash_slug": "round-meadow-8",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "user@example.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
